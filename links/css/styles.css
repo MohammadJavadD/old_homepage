@@ -32,7 +32,7 @@ h1 {
 
 .links a {
     display: inline-block;
-    margin: 10px;
+    /* margin: 10px; */
     padding: 10px 20px;
     background-color: #007BFF;
     color: #fff;
